@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cicd-project-381723",
+  "private_key_id": "4889ac196d208bcf8ce65dcdc7fb08a6969b41fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCuB0VegHz/v5Yy\nmCa3Wdh9/voeC0mRnJW6TXe5lqa4FnBQFcPNqHfBqC6wZXQW0oDBBEt+1jE25iwk\nQmf1MwgKIbDgkEySGo3ROATu/+oLbn2dQeYANJJFxntw+48uE5F/dAnXeySziKhl\nn3N9HD8YptN3shNpctSoLmNPInNqsofUH+0lFlkezBvPOUC1ihjzVDPlJh5foYrg\nBpRjijd2g5lUWRmErgz5nT3lADfwWjhIzEgrIbyNslW6dN9OdMQRV6IKWoLqIidK\n/ad+fdmYmKDYWwQog5iY12VFHw5kRz2lg8//OyHNdOUgOrxqUY7FvIw5e9YNF7CT\n20l8aifzAgMBAAECgf8D2J6OLgVsyf5YpqXjj+meB60GMttZLVllKbzuLfOpv5HW\n1PUnTFU+Sga+IqhMeoLyLOl+O7boNZnfGFVBUrA/2eqO1hrbH8iW0GmBZXdhrlmR\noC1TdYUkY/R+4lPHxSA1dEbeWp2/JCRevEkbPh+FL1Me0hrRntnDf3ja1Fqdtuyu\n9wpuKsA6PP2g3rHIxfDKgk0/NMtwMB5xMEJoZkAjnECXwYHYMq9F1D5e+YUwpbZi\nGPPKXNqb3ZvtDvYflljvzZM+2E91qCY34kj1RpuqB7aNWJ76E+5lUH5ze+r2Wqu2\nXRSL0un1sn3l6xVcd9eauoW5c61qPn93EYOpSZkCgYEA7TGTkGrN+753Yvxkii2z\nnRskjw9yKTe1CXUy/kaDvZlWaBIZF7YG4YTQGlLSHVX3d9UqhJ7MzvTLn+V6SYfh\nagvOJiaLAhuX2DEDNxfeMzofOJiF7xhJW3T1riqV0wznUry8OrpjryyRsyAf7ptP\nXRKcqYZwC5uc41VN6ZNQ1BkCgYEAu9OaCCkkx1wPUB9jRsYGp1/TVWMI/0oMczIN\nJWbOfhMZGcc8rEvq6OjeQc++VdRKlpZtrAqUpQ+PdD6D2I/7Eq70G6EsOxBSLqYr\nG91S1SPUsLtdUqbIhJXKIPfPdbr+NnwQEs1YqHlUH2XPbwEQzfiNpbfIyoNRfrdi\nQBXJvesCgYBBimppBGoofsfEbVNmrxwrdD2U3kLASulWVLEje96ZPE6Y8S9H0v9x\nv141d98hRgjcbuWRwcN8CD5fz2wL92T9BYgQGKRej7tUfK6TwZ+fbhcEb3jKyV4z\nzEy6tH+z0qP0w7wLSkeTNvCHm3/XUckLQcJSQZiiTHx8gKzHtvIluQKBgBqoBENG\nO48DlLTFT5yavBUC94Y1wPAiPTQYFV+KgKHJ6hULfqPhPlyBuBFU/2lE8LUAcl4p\nPkFSvQQ9Xw7cGEDljYViUVmsjk1KjfGtbnULWcMfRDZXrzuJ2p7lLI9D05I99zYD\n6KI4XeT62P6jAxSIQuoS9C8xhd5a/lmj/fazAoGBAOLr10VzGn9LnYv/P1MdM7X3\n4GPUdTNlnHTrxw27qNWKeSwADOKvsvBDD+8R4P0Q7v1ynDlSeqreEz7ToWFe5Q9W\naB/IrhXxd3mgg2qN4wJv3Wq3zRtwsakgzlBDpc0hspaHDc/FkufoVFPD4Dg0BfvK\n/hocJjRU4rmWjhbRfhqI\n-----END PRIVATE KEY-----\n",
+  "client_email": "terra-update@cicd-project-381723.iam.gserviceaccount.com",
+  "client_id": "110415874282512947187",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terra-update%40cicd-project-381723.iam.gserviceaccount.com"
+}
