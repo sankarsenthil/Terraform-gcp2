@@ -11,8 +11,8 @@ provider "google" {
   credentials = file("keys.json")
 
   project = "cicd-project-381723"
-  region  = "us-central1"
-  zone    = "us-central1-c"
+  region  = var.region
+  zone    = var.zone
 }
 
 resource "google_compute_network" "vpc_network" {
